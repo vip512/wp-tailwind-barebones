@@ -13,7 +13,7 @@ Perfect for developers who want to skip the Tailwind setup and start coding imme
 - Seperation of source (assets/) and output (dist/)
 
 ## Folder Structure
-
+```
 .
 ├── assets
 │ └── css
@@ -27,7 +27,7 @@ Perfect for developers who want to skip the Tailwind setup and start coding imme
 ├── src # JS source (optional)
 ├── style.css # Theme header only
 └── tailwind.config.js # Tailwind configuration
-
+```
 ## Installation
 
 1. Clone or download the theme into your Wordpress `wp-content/themes` directory
